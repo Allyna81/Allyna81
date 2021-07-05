@@ -18,8 +18,6 @@ Et oui O'clock je l'ai choisi pour plusieurs raisons selon moi:
 - Télépresentiel
 - Entraide
 - Un accompagnement de qualité
-- Plusieurs Spé
-- J'aime le Risotto
 
 ## My dev skills 
 
@@ -32,6 +30,7 @@ Et oui O'clock je l'ai choisi pour plusieurs raisons selon moi:
 ### FRAMEWORK
 
 - REACT
+- Semantic UI
   
 ## Before ... in the universe
 
